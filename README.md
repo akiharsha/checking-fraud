@@ -1,5 +1,3 @@
-# checking-fraud
-
 # Fraud Detection System
 
 ## Overview
